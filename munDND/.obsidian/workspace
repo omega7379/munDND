@@ -17,7 +17,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "guild/guildKessa.md",
+            "file": "guild/Assistants.md",
             "mode": "source",
             "source": false
           }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "guild/guildKessa.md",
+                "file": "guild/Assistants.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "guild/guildKessa.md",
+                "file": "guild/Assistants.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "guild/guildKessa.md"
+                "file": "guild/Assistants.md"
               }
             }
           }
@@ -138,12 +138,12 @@
   },
   "active": "7a8ebc779a167086",
   "lastOpenFiles": [
+    "guild/guildKessa.md",
     "world/World.md",
     "guild/Assistants.md",
     "guild/TenslowSiha.md",
     "guild/SensaMirach.md",
     "Pasted image 20221021103400.png",
-    "guild/guildKessa.md",
     "party/party.md",
     "guild/LaisenFairview.md",
     "guild/TheronStrongbow.md",
