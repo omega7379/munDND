@@ -1,0 +1,152 @@
+{
+  "main": {
+    "id": "9859e3ffc7490e21",
+    "type": "split",
+    "children": [
+      {
+        "id": "df9b5e2d9fd65f32",
+        "type": "leaf",
+        "state": {
+          "type": "graph",
+          "state": {}
+        }
+      },
+      {
+        "id": "7a8ebc779a167086",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "guild/guildKessa.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ac2fd01dc9187391",
+    "type": "split",
+    "children": [
+      {
+        "id": "531af18498623d73",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "313635281704407d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "e9b1e0eafd814901",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "5243be4ee43aa0ad",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "252e4329cf5d431f",
+    "type": "split",
+    "children": [
+      {
+        "id": "61ba3fe7a1292d8e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "880575f5adad3e9e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "guild/guildKessa.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c682bbaffeea3a3c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "guild/guildKessa.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "cf29c01050e5b8e2",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "70cc4783ed87ec09",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "guild/guildKessa.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "7a8ebc779a167086",
+  "lastOpenFiles": [
+    "world/World.md",
+    "guild/Assistants.md",
+    "guild/TenslowSiha.md",
+    "guild/SensaMirach.md",
+    "Pasted image 20221021103400.png",
+    "guild/guildKessa.md",
+    "party/party.md",
+    "guild/LaisenFairview.md",
+    "guild/TheronStrongbow.md",
+    "guild/guildLeader.md"
+  ]
+}
