@@ -1,4 +1,4 @@
-# Kaisen
+
 Class: warlock
 Race: changeling
 Occupation: Faction Agent- info broker

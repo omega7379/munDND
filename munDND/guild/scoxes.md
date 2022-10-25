@@ -1,0 +1,2 @@
+[[guildKessa]] [[creatures]] 
+Scoxes aka skull foxes are tiny creatures slightly bigger than a house cat. They come in multiple breeds with various abilities and are bred for the purpose of delivering messages. Their high levels of stealth and keen senses make them ideal for passing on messages and being able to bypass creatures of all walks of life.
