@@ -5,7 +5,7 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": true,
+  "collapse-color-groups": false,
   "colorGroups": [
     {
       "query": "Family",
@@ -33,6 +33,13 @@
       "color": {
         "a": 1,
         "rgb": 14701261
+      }
+    },
+    {
+      "query": "Wrelock",
+      "color": {
+        "a": 1,
+        "rgb": 5431473
       }
     }
   ],
